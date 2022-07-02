@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508695531 source:c:\users\manuel\desktop\manchesterdifferenziato\main.c
+	"ManchesterDiff.h"
+
+1508695496 c:\users\manuel\desktop\manchesterdifferenziato\manchesterdiff.h
+	<stdio.h>
+	<string.h>
+
+1508695521 source:c:\users\manuel\desktop\manchesterdifferenziato\manchesterdiff.c
+	"ManchesterDiff.h"
+
